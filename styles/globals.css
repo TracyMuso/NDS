@@ -1,0 +1,39 @@
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #f5f5f5;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	font-family: 'Nunito Sans', sans-serif;
+	font-optical-sizing: auto;
+	color: #020327;
+}
+
+p,
+li,
+span {
+	font-family: 'PT Sans', sans-serif;
+	color: #050861;
+}
+
+button {
+	background-color: #f56200;
+	color: white;
+}
+
+button:hover {
+	background: #ff6c0a;
+}
+
+button:active {
+	background: #f5873e;
+}
+
+.card {
+	background: #48b342;
+	box-shadow: 8px 4px 4px #6fc86a;
+}
