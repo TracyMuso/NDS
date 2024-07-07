@@ -9,34 +9,37 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
+  <!-- - [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites) -->
+  <!-- - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
+  - [Deployment](#deployment) -->
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+<!-- - [📝 License](#license) -->
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [NDS] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This is a website I built for [Northern DrivingSchool](website.com) . I once took driving lessons here so I was inspired to upgrade their online presence. It was a smooth process since I already had a bright idea of where to start.
 
-**[your_project__name]** is a...
+**[NDS]** is a STATIC WEBSITE BUILT WITH
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+- Vite
+- Reactjs
+- TailwindCSS
+- Jest
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
@@ -46,6 +49,13 @@
 </details>
 
 <details>
+  <summary>Deployed on</summary>
+  <ul>
+    <li><a href="https://vercel.com/">Vercel</a></li>
+  </ul>
+</details>
+
+<!-- <details>
   <summary>Server</summary>
   <ul>
     <li><a href="https://expressjs.com/">Express.js</a></li>
@@ -57,7 +67,7 @@
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
-</details>
+</details> -->
 
 <!-- Features -->
 
@@ -65,9 +75,9 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Home page]**
+- **[Trade School page]**
+- **[Company page]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,15 +93,15 @@
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+<!-- ## 💻 Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
 
-To get a local copy up and running, follow these steps.
-
+To get a local copy up and running, follow these steps. -->
+<!--
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need: -->
 
 <!--
 Example command:
@@ -100,10 +110,10 @@ Example command:
  gem install rails
 ```
  -->
-
+<!--
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: -->
 
 <!--
 Example commands:
@@ -113,10 +123,10 @@ Example commands:
   git clone git@github.com:myaccount/my-project.git
 ```
 --->
-
+<!--
 ### Install
 
-Install this project with:
+Install this project with: -->
 
 <!--
 Example command:
@@ -126,10 +136,10 @@ Example command:
   gem install
 ```
 --->
-
+<!--
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command: -->
 
 <!--
 Example command:
@@ -138,10 +148,10 @@ Example command:
   rails server
 ```
 --->
-
+<!--
 ### Run tests
 
-To run tests, run the following command:
+To run tests, run the following command: -->
 
 <!--
 Example command:
@@ -150,10 +160,10 @@ Example command:
   bin/rails test test/models/article_test.rb
 ```
 --->
-
+<!--
 ### Deployment
 
-You can deploy this project using:
+You can deploy this project using: -->
 
 <!--
 Example:
@@ -162,28 +172,25 @@ Example:
 
 ```
  -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!--
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
+- GitHub: [@TracyMuso](https://github.com/TracyMuso)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/tracy-muso)
+
+<!-- 👤 **Author2**
+
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- FUTURE FEATURES -->
 
@@ -221,9 +228,10 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+I'd like to give a thanks to the helpful sources I used when building this projects
 
-I would like to thank...
+- SVGs: [SVG repo](https://www.svgrepo.com)
+- Pictures: [Pexels.com](pexels.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,10 +253,10 @@ I would like to thank...
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+<!-- ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
