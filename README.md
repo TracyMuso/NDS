@@ -64,7 +64,7 @@ For more information on the importance of a professional README for your reposit
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> This is a static website built with React-Vite and deployed on Vercel. I will mention a few other noteworthy technologies in the section below
 
 <details>
   <summary>Client</summary>
@@ -74,18 +74,25 @@ For more information on the importance of a professional README for your reposit
 </details>
 
 <details>
+<summary>Deployment</summary>
+  <ul>
+    <li><a href="https://www.vercel.com/">Vercel</a></li>
+  </ul>
+</details>
+
+<!-- <details>
   <summary>Server</summary>
   <ul>
     <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
-</details>
+</details> -->
 
 <!-- Features -->
 
@@ -111,15 +118,15 @@ For more information on the importance of a professional README for your reposit
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+<!-- ## 💻 Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
 
-To get a local copy up and running, follow these steps.
+To get a local copy up and running, follow these steps. -->
 
-### Prerequisites
+<!-- ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need: -->
 
 <!--
 Example command:
@@ -129,9 +136,9 @@ Example command:
 ```
  -->
 
-### Setup
+<!-- ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: -->
 
 <!--
 Example commands:
@@ -141,10 +148,10 @@ Example commands:
   git clone git@github.com:myaccount/my-project.git
 ```
 --->
-
+<!--
 ### Install
 
-Install this project with:
+Install this project with: -->
 
 <!--
 Example command:
@@ -154,10 +161,10 @@ Example command:
   gem install
 ```
 --->
-
+<!--
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command: -->
 
 <!--
 Example command:
@@ -167,9 +174,9 @@ Example command:
 ```
 --->
 
-### Run tests
+<!-- ### Run tests
 
-To run tests, run the following command:
+To run tests, run the following command: -->
 
 <!--
 Example command:
@@ -178,10 +185,10 @@ Example command:
   bin/rails test test/models/article_test.rb
 ```
 --->
-
+<!--
 ### Deployment
 
-You can deploy this project using:
+You can deploy this project using: -->
 
 <!--
 Example:
@@ -201,15 +208,14 @@ Example:
 
 👤 **Author1**
 
+- GitHub: [@githubhandle](https://github.com/TracyMuso)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/tracy-muso)
+
+<!-- 👤 **Author2**
+
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -239,9 +245,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project please give it a star!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -249,9 +253,10 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+I would like to acknowledge a few resources that really heped me bring this project to life
 
-I would like to thank...
+- [SVG Repo](https://svgrepo.com) for svg icons
+- [Pexels](https://pexels.com) for images
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -272,11 +277,11 @@ I would like to thank...
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-
+<!--
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._ -->
+<!--
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
