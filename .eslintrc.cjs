@@ -3,7 +3,7 @@ module.exports = {
   env: { browser: true, es2020: true },
   extends: [
     'plugin:react/recommended',
-    'love',
+    'airbnb-typescript/base',
     'prettier',
     'plugin:storybook/recommended',
   ],
@@ -23,5 +23,10 @@ module.exports = {
     ],
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/consistent-type-definitions': ['off'],
+    'import/no-anonymous-default-export': 'off',
+    'import/extensions': 'off',
+    'react/no-unescaped-entities': 'off',
+    'import/no-extraneous-dependencies': 'off',
+    'react/react-in-jsx-scope': 'off',
   },
 };
